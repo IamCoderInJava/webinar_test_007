@@ -1,0 +1,2 @@
+1. This is txt file that was created using TextEdit and GUI, not CLI of terminal.
+2. this 2nd line within myFirst.txt is created this time using vim editor started from terminal CLI.
